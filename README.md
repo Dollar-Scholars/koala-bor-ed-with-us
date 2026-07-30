@@ -61,6 +61,8 @@ Talon Wilde
 May Ling Ngo
 🦗
 Maanyavar
+🦗
+Exodia01
 
 ## License
 
